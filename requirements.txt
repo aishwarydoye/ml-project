@@ -5,4 +5,8 @@
  scikit-learn
  xgboost
  catboost
+ fastapi
+ jinja2
+ python-multipart
+ uvicorn
  #-e .
