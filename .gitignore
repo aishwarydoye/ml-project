@@ -152,6 +152,7 @@ activemq-data/
 .envrc
 .venv
 env/
+ds-project/
 venv/
 ENV/
 env.bak/
